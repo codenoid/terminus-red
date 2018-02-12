@@ -21,5 +21,5 @@ gsettings set org.gnome.desktop.interface gtk-theme "terminus-red"
 
 ## Info
 
-[DAWEI87](http://opendesktop.org/member/129897/) - Creator
-[codenoid](https://github.com/codenoid) - GTK 3 Maintainer
+* [DAWEI87](http://opendesktop.org/member/129897/) - Creator
+* [codenoid](https://github.com/codenoid) - GTK 3 Maintainer
