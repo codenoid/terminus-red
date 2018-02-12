@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Version=1.0
+Encoding=UTF-8
+Name=index.theme.foo
+Name[en_CA]=index.theme.foo
+
+[X-GNOME-Metatheme]
+Name=terminus-red
+Type=X-GNOME-Metatheme
+Comment=terminal theme in red
+Encoding=UTF-8
+GtkTheme=terminus-red
+MetacityTheme=terminus-red
+IconTheme=AnyColorYouLike
